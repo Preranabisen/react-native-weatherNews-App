@@ -1,0 +1,4 @@
+#Thu Feb 04 16:47:51 IST 2021
+base.0=/var/www/React_native/weatherNews/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
